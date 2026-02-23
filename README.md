@@ -6,7 +6,7 @@ A collection of VLSI and Digital Logic designs built using Logisim-evolution, fo
 
 ## 📂 Project Navigation
 * [Day 01: Multi-Mode Comparators](./Day_01_Comparators)
-* [Day 02:k-map optimization](./Day_02_KMaps)
+* [Day 02: k-map optimization](./Day_02_KMaps)
 
 
 ---
