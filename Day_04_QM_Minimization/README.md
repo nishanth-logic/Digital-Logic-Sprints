@@ -51,6 +51,6 @@ One AND gate feeds both outputs — demonstrates multi-output gate sharing.
 - `Dual_Output_Proof.png` — Proof Task 2 screenshot
 ```
 
----
+
 
 
