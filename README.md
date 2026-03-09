@@ -92,17 +92,6 @@ Task: <What was built>
 Logic: <Method or approach used>
 Verification: <How it was verified>
 Ref: NPTEL Digital Electronic Circuits - Lecture XX, Prof. Goutam Saha, IIT Kharagpur
-```
-
----
-
-## 📌 Carry-Over Items
-
-- [ ] Rename `Day_02_KMaps` → `Day_02_Logic_Gates`
-- [ ] Rename `Day_03_KMaps_Minimization` → `Day_03_KMap_Minimization`
-- [ ] Move existing Ripple Carry Adder into `Day_13_Arithmetic_Circuits` folder
-- [ ] Add individual `README.md` inside each day folder if missing
-
 ---
 
 ## 🔗 Reference
