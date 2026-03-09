@@ -53,9 +53,4 @@ One AND gate feeds both outputs — demonstrates multi-output gate sharing.
 
 ---
 
-**To update on GitHub:**
-1. Go to `Day_04_QM_Minimization` → click `README.md` → pencil ✏️
-2. Select all → delete → paste the above
-3. Commit title:
-```
-docs: update Day 04 README with bonus challenge results
+
