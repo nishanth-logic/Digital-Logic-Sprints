@@ -63,7 +63,7 @@ To bridge the gap between academic theory and industry-ready VLSI fundamentals �
   - 4-variable K-Maps, Gray Code ordering, Don't Care (X) conditions
   - 📐 *Proof Task:* BCD-to-Gray Code converter, verified via Combinational Analysis
 
-- **Day 04 — Quine-McCluskey Method** *(In Progress)*
+- **Day 04 — Quine-McCluskey Method**
   - Tabular QM minimization, prime implicant extraction, cost criteria
   - 📐 *Proof Task:* 4-bit Prime Number Detector using QM-minimized SOP
 
@@ -93,6 +93,7 @@ Logic: <Method or approach used>
 Verification: <How it was verified>
 Ref: NPTEL Digital Electronic Circuits - Lecture XX, Prof. Goutam Saha, IIT Kharagpur
 ---
+```
 
 ## 🔗 Reference
 
