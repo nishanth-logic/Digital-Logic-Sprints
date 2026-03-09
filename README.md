@@ -33,7 +33,7 @@ To bridge the gap between academic theory and industry-ready VLSI fundamentals �
 | [Day 01](./Day_01_Comparators) | Number Systems & 2's Complement | ✅ Complete |
 | [Day 02](./Day_02_Logic_Gates) | Logic Gates & Universal Logic | ✅ Complete |
 | [Day 03](./Day_03_KMap_Minimization) | K-Map Minimization | ✅ Complete |
-| [Day 04](./Day_04_QM_Minimization) | Quine-McCluskey Method | 🔄 In Progress |
+| [Day 04](./Day_04_QM_Minimization) | Quine-McCluskey Method | ✅ Complete |
 | Day 05 | Hazards in Combinational Circuits | ⏳ Upcoming |
 | Day 06 | MUX, DEMUX & Data Routing | ⏳ Upcoming |
 | Day 07 | Encoders, Decoders & Priority Logic | ⏳ Upcoming |
