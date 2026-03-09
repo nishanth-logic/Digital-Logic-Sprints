@@ -49,8 +49,3 @@ One AND gate feeds both outputs — demonstrates multi-output gate sharing.
 - `Prime_Detector_Proof.png` — Proof Task 1 screenshot
 - `Dual_Output_Fib_Div3.circ` — Proof Task 2 Logisim circuit
 - `Dual_Output_Proof.png` — Proof Task 2 screenshot
-```
-
-
-
-
