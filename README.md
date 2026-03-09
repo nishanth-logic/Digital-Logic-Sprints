@@ -66,7 +66,7 @@ To bridge the gap between academic theory and industry-ready VLSI fundamentals �
 - **Day 04 — Quine-McCluskey Method**
   - Tabular QM minimization, prime implicant extraction, cost criteria
   - 📐 *Proof Task:* 4-bit Prime Number Detector using QM-minimized SOP
-  - 📐  Proof Task 2:Dual Output Fibonacci + Div3 Detector
+  - 📐 *Proof Task 2:* Dual Output Fibonacci + Div3 Detector
 
 ---
 
